@@ -15,7 +15,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/express-basic-server.git
+    git clone https://github.com/Sahilll94/Intro-to-Express.js.git
     ```
 
 2. Navigate to the project directory:
